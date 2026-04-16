@@ -1,12 +1,27 @@
-# Meshlink-Project
-Meshlink is an innovative Android application developed using Kotlin in Android Studio, designed to facilitate seamless peer-to-peer communication through Wi-Fi Direct technology. This application addresses the challenges faced by users in low-connectivity areas, enabling them to connect and communicate directly without relying on traditional internet infrastructure.
+# Meshlink Project
 
-The core features of Meshlink include:
+Meshlink is an Android application developed in Kotlin using Android Studio, designed to enable seamless peer-to-peer communication via Wi-Fi Direct. It is built to address communication challenges in low-connectivity areas by allowing users to connect and communicate without relying on traditional internet infrastructure.
 
-Device Discovery: Users can easily discover nearby devices, fostering a community network where communication can thrive.
+## Features
 
-Direct Connections: Utilizing Wi-Fi Direct, Meshlink allows users to establish direct connections, ensuring that messages and data can be transmitted swiftly and securely, even in offline scenarios.
+- **Device Discovery:** Detect and display nearby devices to support local network communication  
+- **Direct Connections:** Establish secure peer-to-peer connections using Wi-Fi Direct  
+- **Offline Communication:** Enable data exchange without internet access  
+- **Real-Time Messaging (In Progress):** Implementing a messaging system for instant communication between connected devices  
 
-Messaging Feature: I am currently enhancing the application by implementing a real-time messaging feature, enabling users to engage in instant communication. This functionality is crucial for ensuring that users can share information and interact effectively in various situations.
+## Tech Stack
+- Kotlin (Android Development)
+- Wi-Fi Direct (P2P Networking)
+- Socket Programming
+- Android Studio
 
-Meshlink aims to empower users in remote locations by providing a reliable communication solution, bridging the gap caused by inadequate connectivity. By harnessing local networks, this application enhances social interaction and collaboration among users, making it an essential tool for communities in need.
+## Overview
+Meshlink focuses on enabling reliable communication in environments with limited or no internet connectivity. The application demonstrates practical implementation of networking concepts, connection management, and real-time data exchange between devices.
+
+## Learning & Motivation
+This project reflects my strong interest in building real-world networking and communication systems. While I continue to expand my skills in related technologies, including Python, Meshlink represents a project I am highly passionate about and actively developing to improve both functionality and user experience.
+
+## Future Improvements
+- Enhance real-time messaging reliability  
+- Improve UI/UX for better user interaction  
+- Add support for file sharing between devices  
